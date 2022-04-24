@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wiklunden
 - 👀 I’m interested in computer engineering and design.
-- 🌱 I’m currently learning Java, C++ and Discrete Mathematics.
+- 🌱 I’m currently learning OOP in C++ and Computer Networks.
 - 📫 How to reach me: Milton#8481 on Discord.
 
 <!---
